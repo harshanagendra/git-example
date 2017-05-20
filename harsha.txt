@@ -1,1 +1,4 @@
+Git stash test.
+
+
 I have created this new file to test pull requests.   

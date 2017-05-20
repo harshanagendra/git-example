@@ -1,3 +1,5 @@
+another stash
+
 testing for another file. 
 
 This time with Git Stash. 
