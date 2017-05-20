@@ -1,0 +1,5 @@
+testing for another file. 
+
+This time with Git Stash. 
+
+Lets see what happens now
